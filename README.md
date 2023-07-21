@@ -84,17 +84,17 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanesayyar&layout=compact&langs_count=7&theme=algolia">
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanesayyar&layout=compact&langs_count=7&theme=blueberry">
   <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=samanesayyar&theme=algolia&row=1&column=6" alt="trophy">
+    <img  src="https://github-profile-trophy.vercel.app/?username=samanesayyar&theme=blueberry&row=1&column=6" alt="trophy">
   </a>
   <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false">
-    <img height="150em" alt="samanesayyar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/samanesayyar?cardType=level&theme=algolia&preferLogin=false" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=blueberry&preferLogin=false">
+    <img height="150em" alt="samanesayyar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/samanesayyar?cardType=level&theme=blueberry&preferLogin=false" />
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=samanesayyar&theme=algolia" alt="GitHub Streak">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=samanesayyar&theme=blueberry" alt="GitHub Streak">
   </a>
 </div>
 <br/>
@@ -102,11 +102,11 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
    </br>
     <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanesayyar&theme=algolia" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samanesayyar&theme=algolia" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samanesayyar&theme=algolia" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samanesayyar&theme=algolia" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samanesayyar&theme=algolia&utcOffset=8" alt="Productive Time">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanesayyar&theme=blueberry" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samanesayyar&theme=blueberry" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samanesayyar&theme=blueberry" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samanesayyar&theme=blueberry" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samanesayyar&theme=blueberry&utcOffset=8" alt="Productive Time">
     </div>
    </br>
 </details>
