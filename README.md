@@ -77,7 +77,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 <br/>
 <h3>Let's play</h3>  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output/github-contribution-grid-snake.svg">
 </picture>
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
