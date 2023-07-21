@@ -15,7 +15,7 @@ Together, let's shape a AI landscape that radiates with wonder and awe!
   
  
   
-<img align="right" width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/cs.gif" />
+<img align="right" width="260" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/cs.gif" />
 <p>
   
 
