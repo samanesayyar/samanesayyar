@@ -6,15 +6,9 @@
 <h1>💫 About Me:</h1>
 <img align="right" width="340" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/as2.gif" />
 <p>
-Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak.
 
-Well I possess the powerfull knowledge of AI, AI is beautiful and the art of using it is more beautiful.
 My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
-  
-Together, let's shape a AI landscape that radiates with wonder and awe!
-  
- 
-  
+
 <img align="right" width="340" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/cs2.gif" />
 <p>
   
