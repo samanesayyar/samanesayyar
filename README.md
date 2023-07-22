@@ -6,12 +6,12 @@
 <h1>💫 About Me:</h1>
 
 <p>
-
+<img align="right" width="340" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/cs2.gif" /> 
 My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
 
 
 <p>
-<img align="right" width="340" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/cs2.gif" /> 
+
 
 <h1 font-weight="bold">
   🌟 My Skills  
