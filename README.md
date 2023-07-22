@@ -80,7 +80,7 @@ Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, Th
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/night.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/night.svg" />
 	</picture>
 </p>
 
