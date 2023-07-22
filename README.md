@@ -20,9 +20,11 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
-<pre>
+<!--STARTS_HERE_QUOTE_README-->
 ![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=monokai)
-</pre>
+<!--ENDS_HERE_QUOTE_README-->
+
+
 
   <br/>
   <br/>
