@@ -3,12 +3,13 @@
 🔭 I’m working on object detection and segmentation <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced Deep feature extraction on YOLO & Mask-RCNN<br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>⚡ Fun fact is IAMAI
 </h2>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" /> 
+
 <h1>💫 About Me:</h1>
 
 <p>
-
+<img align="right" width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" /> 
 My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
+</p>
 <p>
 <h1 font-weight="bold">
   🌟 Quotes
