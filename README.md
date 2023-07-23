@@ -10,9 +10,9 @@
  
 My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
 </p>
-<div text-align:"center">
-<img  width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" />
-</div>	
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" />
+
 
 <p>
 <h1 font-weight="bold">
