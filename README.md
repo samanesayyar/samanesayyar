@@ -22,9 +22,9 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 Knowledge is not skill. Knowledge plus ten thousand hours is skill. Go ahead, The future belongs to those who learn more skills and combine them in creative ways😉.
 </p>
 <!--STARTS_HERE_QUOTE_README-->
-<md-block>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-	</md-block>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)]
+	
 <!--ENDS_HERE_QUOTE_README-->
 
 
