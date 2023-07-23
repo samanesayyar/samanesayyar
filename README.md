@@ -13,7 +13,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <div text-align:"center">
 <img  width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" />
 </div>	
-</center>
+
 <p>
 <h1 font-weight="bold">
   🌟 Quotes
