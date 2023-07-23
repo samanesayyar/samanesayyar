@@ -1,3 +1,4 @@
+<script type="module" src="https://md-block.verou.me/md-block.js"></script>
 <h2 align="center" font-weight="bold">
 🔭 I’m working on object detection and segmentation <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced Deep feature extraction on YOLO & Mask-RCNN<br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>⚡ Fun fact is IAMAI
 </h2>
