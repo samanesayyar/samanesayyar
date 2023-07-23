@@ -20,7 +20,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </h1>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Catppuccin_Latte)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
   <br/>
   <br/>
