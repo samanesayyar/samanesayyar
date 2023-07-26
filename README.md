@@ -12,7 +12,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 	</h3> 
 </p>
 <p  align="middle">
-<img  width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" />
+<img  width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/2.gif" />
 </p>
 
 <p>
