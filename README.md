@@ -98,7 +98,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   </a>
 </div>
 <br/>
-<details>
+
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
    </br>
     <div align='center'>
@@ -109,7 +109,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samanesayyar&theme=tokyonight&utcOffset=8" alt="Productive Time">
     </div>
    </br>
-</details>
+
 
 
 <div style="display: inline_block"><br>
