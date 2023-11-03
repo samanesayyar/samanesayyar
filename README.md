@@ -113,7 +113,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection n </h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/th.gif">
+  <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/th.gif">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
