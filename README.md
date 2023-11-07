@@ -122,7 +122,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System n </h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/ScreenShot_20231103191154.png">
+  <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/rec1.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
@@ -130,11 +130,11 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <h3>🧰️ Lastest Project: AI Fitness Fat-Loss Muscle Detection & Segmentation </h3>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/1.gif" width="27%">
+  <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/fit1.gif" width="27%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/2.gif" width="27%">
+  <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/fit2.gif" width="27%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/AISoltani/AISoltani/main/.github/workflows/33.gif" width="27%">
+  <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/fit3.gif" width="27%">
 </p>
 
 
