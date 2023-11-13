@@ -5,7 +5,6 @@
 </h2>
 
 <h1>💫 About Me:</h1>
-
 <p>
 <h3>
 My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
