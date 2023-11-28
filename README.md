@@ -101,7 +101,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </div>
 <br/>
 
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
+   <summary><h3><b>:rocket: &nbsp;Projects</b></h3></summary>
    </br>
     <div align='center'>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanesayyar&theme=tokyonight" alt="Profile Details">
