@@ -101,7 +101,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </div>
 <br/>
 
-   <summary><h3><b>:rocket: &nbsp;Projects</b></h3></summary>
+   <summary><h3><b>:rocket: &nbsp;My Github Stats</b></h3></summary>
    </br>
     <div align='center'>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanesayyar&theme=tokyonight" alt="Profile Details">
@@ -111,7 +111,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samanesayyar&theme=tokyonight&utcOffset=8" alt="Productive Time">
     </div>
    </br>
-
+<summary><h3><b>:rocket: &nbsp;Projects</b></h3></summary>
 <h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection n </h3>  
 
 <p align="center">
