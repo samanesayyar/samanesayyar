@@ -112,7 +112,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
     </div>
    </br>
 <summary><h3><b>:rocket: &nbsp;Projects</b></h3></summary>
-<h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection n </h3>  
+<h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection  </h3>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/th.gif">
@@ -120,7 +120,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </p>
 
 
-<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System n </h3>  
+<h3>🧰️ Hybrid Approaches: Few-Shot Learning for Fashion Recommendation System  </h3>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/rec1.png">
