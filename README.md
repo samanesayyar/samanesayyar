@@ -136,10 +136,10 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </p>
 
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   <img align="right" alt="Bruna-pic" height="200" style="border-radius:50px;"
     src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/sam.png">
- </div>
+ </div>-->
 
 
 
@@ -156,7 +156,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <!--   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> -->
-<!--  <a href="https://join.skype.com/invite/Mfz6gfwcwho8" target="_blank">
+  <a href="https://join.skype.com/invite/Mfz6gfwcwho8" target="_blank"
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
    <a href="https://t.me/sam_ss7210">
