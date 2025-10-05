@@ -28,45 +28,66 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   <br/>
   <br/>
 <h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
+<!-- Responsive icon panel for Machine Learning and related fields -->
+<style>
+  .icon-panel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  .icon-item {
+    flex: 0 0 120px; /* width basis for each item */
+    text-align: center;
+    font-size: 0.85rem;
+  }
+  .icon-item img {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 0.5rem;
+  }
+  @media (max-width: 600px) {
+    .icon-item {
+      flex: 0 0 45%;
+    }
+    .icon-item img {
+      width: 48px;
+      height: 48px;
+    }
+  }
+</style>
 
-<!--<img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
-<img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">-->
-
-<p align="center">
-  <!-- Core Programming / AI Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" title="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Adobe Photoshop"/>
-</p>
-
-<p align="center">
-  <!-- Advanced AI / Research Domains -->
-  <img src="https://cdn.simpleicons.org/ai/00BFFF" width="50" title="Artificial Intelligence"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3771/3771420.png" width="50" title="Machine Learning"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1042/1042339.png" width="50" title="Computer Vision"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/9423/9423312.png" width="50" title="Graph Neural Networks"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="50" title="Bitcoin / Blockchain"/>
-</p>
-
-<p align="center">
-  <!-- Tools / Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Microsoft Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" title="Android Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50" title="Qt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" title="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" title="WordPress"/>
-  <img src="https://img.icons8.com/color/48/stackoverflow.png" title="Stack Overflow"/>
-</p>
-
-
-
+<div class="icon-panel">
+  <div class="icon-item">
+    <img src="https://img.icons8.com/color/96/learning.png" alt="Machine Learning">
+    <div>Machine Learning</div>
+  </div>
+  <div class="icon-item">
+    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Artificial Intelligence">
+    <div>Artificial Intelligence</div>
+  </div>
+  <div class="icon-item">
+    <img src="https://img.icons8.com/color/96/opencv.png" alt="Computer Vision (OpenCV)">
+    <div>Computer Vision</div>
+  </div>
+  <div class="icon-item">
+    <img src="https://img.icons8.com/color/96/graph.png" alt="Graph Neural Networks">
+    <div>Graph Neural Networks</div>
+  </div>
+  <div class="icon-item">
+    <img src="https://img.icons8.com/color/96/network.png" alt="Social Network Analysis">
+    <div>Social Network Analysis</div>
+  </div>
+  <div class="icon-item">
+    <img src="https://img.icons8.com/color/96/blockchain.png" alt="Blockchain">
+    <div>Blockchain</div>
+  </div>
+  <div class="icon-item">
+    <img src="https://img.icons8.com/color/96/bitcoin.png" alt="Bitcoin">
+    <div>Bitcoin</div>
+  </div>
+</div>
 
 
 # 💻 Tech Stack:
