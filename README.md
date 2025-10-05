@@ -33,15 +33,16 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">-->
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/python--v1.png" />
-  <img src="https://img.icons8.com/color/48/tensorflow.png" />
-  <img src="https://img.icons8.com/color/48/pytorch.png" />
-  <img src="https://img.icons8.com/color/48/arduino.png" />
-  <img src="https://img.icons8.com/color/48/c-programming.png" />
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
-  <img src="https://img.icons8.com/color/48/matlab.png" />
-  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
 </p>
+
 
 
 # 💻 Tech Stack:
