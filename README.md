@@ -34,14 +34,13 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
   <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="64" height="64"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-ai-artificial-intelligence-flaticons-flat-flat-icons.png" title="AI Script" width="64" height="64"/>
-  <img src="https://img.icons8.com/color/96/pytorch.png" title="PyTorch" width="64" height="64"/>
-  <img src="https://img.icons8.com/color/96/arduino.png" title="Arduino" width="64" height="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/c-programming.png" title="C" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="64" height="64"/>
-  <img src="https://img.icons8.com/color/96/matlab.png" title="MATLAB" width="64" height="64"/>
+ 
   <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="64" height="64"/>
-  <img src="https://img.icons8.com/color/96/processing.png" title="Processing" width="64" height="64"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing" width="64" height="64"/>
+
 </p>
 
 <!-- ⚙️ Row 2: Platforms & Development Tools -->
@@ -52,7 +51,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   <img src="https://img.icons8.com/color/96/linux.png" title="Linux" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/git.png" title="Git" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/android-studio--v3.png" title="Android Studio" width="64" height="64"/>
-  <img src="https://img.icons8.com/color/96/qt.png" title="Qt" width="64" height="64"/>
+ 
   <img src="https://img.icons8.com/color/96/stackoverflow.png" title="Stack Overflow" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/visual-studio.png" title="Visual Studio" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" width="64" height="64"/>
@@ -65,7 +64,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   <img src="https://img.icons8.com/color/96/graph.png" title="Graph Neural Networks" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/network.png" title="Social Network Analysis" width="64" height="64"/>
   <img src="https://img.icons8.com/color/96/blockchain.png" title="Blockchain" width="64" height="64"/>
-  <img src="https://img.icons8.com/color/96/bitcoin.png" title="Bitcoin" width="64" height="64"/>
+ 
 </p>
 
 
