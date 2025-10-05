@@ -1,14 +1,20 @@
 
-<h2 align="center" font-weight="bold">
-🔭 I’m working on object detection and segmentation <br>🤝 I’m looking for help with AI Projects<br>🌱 I’m currently learning Advanced Deep feature extraction on YOLO & Mask-RCNN<br>💬 Ask me about ML, Machine Vision, Deep Learning, Pattern Recognition, ...<br>
+<h2 align="center" style="font-weight: bold;">
+  🔭 I’m working on cutting-edge **AI-powered eCommerce solutions** <br>
+  🤝 I’m looking for collaborations in **ML, Computer Vision**, and **AI Projects** <br>
+  🌱 I’m currently advancing in **Deep Feature Extraction**, **Object Detection**, and **Segmentation** using **YOLO** & **Mask-RCNN** <br>
+  💬 Ask me about **ML**, **Deep Learning**, **Pattern Recognition**, and **AI applications in eCommerce**
 </h2>
+
 <h1>💫 About Me:</h1>
 <p>
-<h3>
-My working fields are ML, Deep Learning, Vision and PR. I recently working more on robust vision Applications.
-	</h3> 
-	
+  <h3>
+    I specialize in **Machine Learning**, **Computer Vision**, and **Artificial Intelligence** within the **eCommerce** industry. <br>
+    My focus is on building robust vision applications for **product detection**, **recommendation systems**, and **personalized shopping experiences**. <br>
+    I'm also passionate about developing **AI-based solutions** that improve **eCommerce performance** through **advanced image recognition**, **segmentation**, and **AI-based predictions**.
+  </h3>
 </p>
+
 <p  align="middle">
 <img  width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/2.gif" />
 </p>
