@@ -92,9 +92,9 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
     <img height="150em" alt="samanesayyar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/samanesayyar?cardType=level&theme=tokyonight&preferLogin=false" />
   </a>
 
-  <a href="https://git.io/streak-stats">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=samanesayyar&theme=jolly&stroke=D2A6EB)](https://git.io/streak-stats)
-  </a>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=samanesayyar&theme=jolly&stroke=D2A6EB)](https://git.io/streak-stats)
+  
 </div>
 <br/>
 
