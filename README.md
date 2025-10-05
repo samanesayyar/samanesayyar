@@ -93,7 +93,7 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=samanesayyar&theme=tokyonight" alt="GitHub Streak">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=samanesayyar&theme=jolly&stroke=D2A6EB)](https://git.io/streak-stats)
   </a>
 </div>
 <br/>
