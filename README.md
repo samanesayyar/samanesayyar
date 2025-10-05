@@ -42,6 +42,15 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
 </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://img.icons8.com/color/48/network.png" title="Graph Theory"/>
+  <img src="https://img.icons8.com/color/48/graph.png" title="Social Network Analysis"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Graph Neural Networks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
+</p>
 
 
 
