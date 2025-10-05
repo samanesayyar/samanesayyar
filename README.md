@@ -27,67 +27,76 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   <br/>
   <br/>
   <br/>
-<h2 font-weight="bold">🏅 Strengths Skills 🎩</h2>
-<!-- Responsive icon panel for Machine Learning and related fields -->
+<!-- 🌟 Responsive Skills Section -->
+<h2 align="center">🏅 Strengths & Skills 🎩</h2>
+
 <style>
-  .icon-panel {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1.5rem;
-    margin-top: 1rem;
-  }
+.icon-panel {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+.icon-item {
+  flex: 0 0 120px; /* width basis for each item */
+  text-align: center;
+  font-size: 0.85rem;
+}
+.icon-item img {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 0.5rem;
+}
+@media (max-width: 600px) {
   .icon-item {
-    flex: 0 0 120px; /* width basis for each item */
-    text-align: center;
-    font-size: 0.85rem;
+    flex: 0 0 45%;
   }
   .icon-item img {
-    width: 64px;
-    height: 64px;
-    margin-bottom: 0.5rem;
+    width: 48px;
+    height: 48px;
   }
-  @media (max-width: 600px) {
-    .icon-item {
-      flex: 0 0 45%;
-    }
-    .icon-item img {
-      width: 48px;
-      height: 48px;
-    }
-  }
+}
 </style>
 
 <div class="icon-panel">
+  <!-- Machine Learning -->
   <div class="icon-item">
-    <img src="https://img.icons8.com/color/96/learning.png" alt="Machine Learning">
+    <img src="https://cdn-icons-png.flaticon.com/512/3771/3771420.png" alt="Machine Learning">
     <div>Machine Learning</div>
   </div>
+
+  <!-- Artificial Intelligence -->
   <div class="icon-item">
-    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Artificial Intelligence">
+    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" alt="Artificial Intelligence">
     <div>Artificial Intelligence</div>
   </div>
+
+  <!-- Computer Vision -->
   <div class="icon-item">
-    <img src="https://img.icons8.com/color/96/opencv.png" alt="Computer Vision (OpenCV)">
+    <img src="https://cdn-icons-png.flaticon.com/512/1042/1042339.png" alt="Computer Vision">
     <div>Computer Vision</div>
   </div>
+
+  <!-- Graph Neural Networks -->
   <div class="icon-item">
-    <img src="https://img.icons8.com/color/96/graph.png" alt="Graph Neural Networks">
+    <img src="https://cdn-icons-png.flaticon.com/512/9423/9423312.png" alt="Graph Neural Networks">
     <div>Graph Neural Networks</div>
   </div>
+
+  <!-- Social Network Analysis -->
   <div class="icon-item">
-    <img src="https://img.icons8.com/color/96/network.png" alt="Social Network Analysis">
+    <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" alt="Social Network Analysis">
     <div>Social Network Analysis</div>
   </div>
+
+  <!-- Blockchain -->
   <div class="icon-item">
-    <img src="https://img.icons8.com/color/96/blockchain.png" alt="Blockchain">
+    <img src="https://cdn-icons-png.flaticon.com/512/825/825540.png" alt="Blockchain">
     <div>Blockchain</div>
   </div>
-  <div class="icon-item">
-    <img src="https://img.icons8.com/color/96/bitcoin.png" alt="Bitcoin">
-    <div>Bitcoin</div>
-  </div>
 </div>
+
 
 
 # 💻 Tech Stack:
