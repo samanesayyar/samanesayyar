@@ -1,19 +1,20 @@
 
 <h2 align="center" style="font-weight: bold;">
-  🔭 Working on **AI-powered eCommerce solutions** <br>
-  🤝 Open to collaborations in **ML, Computer Vision**, and **AI Projects** <br>
-  🌱 Currently enhancing **Deep Feature Extraction**, **Object Detection**, and **Segmentation** with **YOLO** & **Mask-RCNN** <br>
-  💬 Ask me about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **AI in eCommerce**
+  🔭 Working on <strong>AI-powered eCommerce solutions</strong> <br>
+  🤝 Open to collaborations in <strong>ML, Computer Vision</strong>, and <strong>AI Projects</strong> <br>
+  🌱 Currently enhancing <strong>Deep Feature Extraction</strong>, <strong>Object Detection</strong>, and <strong>Segmentation</strong> with <strong>YOLO</strong> & <strong>Mask-RCNN</strong> <br>
+  💬 Ask me about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, <strong>Computer Vision</strong>, and <strong>AI in eCommerce</strong>
 </h2>
 
 <h1>💫 About Me:</h1>
 <p>
   <h3>
-    I’m a specialist in **Machine Learning**, **Computer Vision**, and **AI**, focused on **eCommerce** solutions. <br>
-    I build **AI-driven applications** for **product detection**, **recommendation systems**, and **personalized shopping experiences**. <br>
-    Passionate about using **advanced image recognition**, **segmentation**, and **predictive AI** to enhance **eCommerce performance**.
+    I’m a specialist in <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, and <strong>AI</strong>, focused on <strong>eCommerce</strong> solutions. <br>
+    I build <strong>AI-driven applications</strong> for <strong>product detection</strong>, <strong>recommendation systems</strong>, and <strong>personalized shopping experiences</strong>. <br>
+    Passionate about using <strong>advanced image recognition</strong>, <strong>segmentation</strong>, and <strong>predictive AI</strong> to enhance <strong>eCommerce performance</strong>.
   </h3>
 </p>
+
 
 
 <p  align="middle">
