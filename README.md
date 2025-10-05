@@ -32,10 +32,6 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <!--<img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
 <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">-->
 
-<h2 align="center">🏅 Strengths & Skills 🎩</h2>
-
-<h2 align="center">🏅 Strengths & Skills 🎩</h2>
-
 <p align="center">
   <!-- Core Programming / AI Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
@@ -49,12 +45,12 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 </p>
 
 <p align="center">
-  <!-- Advanced Domains -->
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Artificial Intelligence"/>
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Machine-Learning-artificial-intelligence-flat-icons-inmotus-design.png" width="48" title="Machine Learning"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-computer-vision-robotics-flaticons-lineal-color-flat-icons.png" width="48" title="Computer Vision"/>
-  <img src="https://img.icons8.com/color/48/network.png" title="Graph Neural Networks / Social Network Analysis"/>
-  <img src="https://img.icons8.com/color/48/bitcoin--v1.png" title="Bitcoin / Blockchain"/>
+  <!-- Advanced AI / Research Domains -->
+  <img src="https://cdn.simpleicons.org/ai/00BFFF" width="50" title="Artificial Intelligence"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3771/3771420.png" width="50" title="Machine Learning"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1042/1042339.png" width="50" title="Computer Vision"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/9423/9423312.png" width="50" title="Graph Neural Networks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="50" title="Bitcoin / Blockchain"/>
 </p>
 
 <p align="center">
