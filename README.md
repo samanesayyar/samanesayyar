@@ -28,25 +28,44 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
   <br/>
   <br/>
 <!-- 🌟 Responsive Skills Section -->
-<h2 align="center">🏅 Strengths & Skills 🎩</h2>
+<h2 align="left">🏅 Strengths & Skills 🎩</h2>
 
-<!-- Your original skillicons rows -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,aiscript,pytorch,arduino,c,cpp,matlab,photoshop,processing" width="100%">
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">
+<!-- 🧠 Row 1: Programming & Core Tools -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
+  <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="64" height="64"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-ai-artificial-intelligence-flaticons-flat-flat-icons.png" title="AI Script" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/pytorch.png" title="PyTorch" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/arduino.png" title="Arduino" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/c-programming.png" title="C" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/matlab.png" title="MATLAB" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/processing.png" title="Processing" width="64" height="64"/>
 </p>
 
-<!-- Colorful research/AI related icons -->
+<!-- ⚙️ Row 2: Platforms & Development Tools -->
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="https://img.icons8.com/color/96/learning.png" alt="Machine Learning" width="64" height="64" title="Machine Learning">
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Artificial Intelligence" width="64" height="64" title="Artificial Intelligence">
-  <img src="https://img.icons8.com/color/96/opencv.png" alt="Computer Vision" width="64" height="64" title="Computer Vision">
-  <img src="https://img.icons8.com/color/96/graph.png" alt="Graph Neural Networks" width="64" height="64" title="Graph Neural Networks">
-  <img src="https://img.icons8.com/color/96/network.png" alt="Social Network Analysis" width="64" height="64" title="Social Network Analysis">
-  <img src="https://img.icons8.com/color/96/blockchain.png" alt="Blockchain" width="64" height="64" title="Blockchain">
-  <img src="https://img.icons8.com/color/96/bitcoin.png" alt="Bitcoin" width="64" height="64" title="Bitcoin">
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" title="Artificial Intelligence" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/azure-1.png" title="Azure" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/bash.png" title="Bash" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/linux.png" title="Linux" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/git.png" title="Git" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/android-studio--v3.png" title="Android Studio" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/qt.png" title="Qt" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/stackoverflow.png" title="Stack Overflow" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/visual-studio.png" title="Visual Studio" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" width="64" height="64"/>
+</p>
+
+<!-- 🤖 Row 3: Research & Emerging Tech -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="https://img.icons8.com/color/96/learning.png" title="Machine Learning" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/opencv.png" title="Computer Vision" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/graph.png" title="Graph Neural Networks" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/network.png" title="Social Network Analysis" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/blockchain.png" title="Blockchain" width="64" height="64"/>
+  <img src="https://img.icons8.com/color/96/bitcoin.png" title="Bitcoin" width="64" height="64"/>
 </p>
 
 
