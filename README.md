@@ -1,19 +1,20 @@
 
 <h2 align="center" style="font-weight: bold;">
-  🔭 I’m working on cutting-edge **AI-powered eCommerce solutions** <br>
-  🤝 I’m looking for collaborations in **ML, Computer Vision**, and **AI Projects** <br>
-  🌱 I’m currently advancing in **Deep Feature Extraction**, **Object Detection**, and **Segmentation** using **YOLO** & **Mask-RCNN** <br>
-  💬 Ask me about **ML**, **Deep Learning**, **Pattern Recognition**, and **AI applications in eCommerce**
+  🔭 Working on **AI-powered eCommerce solutions** <br>
+  🤝 Open to collaborations in **ML, Computer Vision**, and **AI Projects** <br>
+  🌱 Currently enhancing **Deep Feature Extraction**, **Object Detection**, and **Segmentation** with **YOLO** & **Mask-RCNN** <br>
+  💬 Ask me about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **AI in eCommerce**
 </h2>
 
 <h1>💫 About Me:</h1>
 <p>
   <h3>
-    I specialize in **Machine Learning**, **Computer Vision**, and **Artificial Intelligence** within the **eCommerce** industry. <br>
-    My focus is on building robust vision applications for **product detection**, **recommendation systems**, and **personalized shopping experiences**. <br>
-    I'm also passionate about developing **AI-based solutions** that improve **eCommerce performance** through **advanced image recognition**, **segmentation**, and **AI-based predictions**.
+    I’m a specialist in **Machine Learning**, **Computer Vision**, and **AI**, focused on **eCommerce** solutions. <br>
+    I build **AI-driven applications** for **product detection**, **recommendation systems**, and **personalized shopping experiences**. <br>
+    Passionate about using **advanced image recognition**, **segmentation**, and **predictive AI** to enhance **eCommerce performance**.
   </h3>
 </p>
+
 
 <p  align="middle">
 <img  width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/2.gif" />
