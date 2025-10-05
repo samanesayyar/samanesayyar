@@ -33,28 +33,16 @@ My working fields are ML, Deep Learning, Vision and PR. I recently working more 
 <img src="https://skillicons.dev/icons?i=ai,azure,bash,linux,git,androidstudio,qt,stackoverflow,visualstudio,wordpress" width="100%">-->
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="50">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="50">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="50">
-  <img src="https://cdn.simpleicons.org/arduino/00979D" width="50">
-  <img src="https://cdn.simpleicons.org/c/00599C" width="50">
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50">
-  <img src="https://cdn.simpleicons.org/matlab/0076A8" width="50">
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="50">
-  <img src="https://cdn.simpleicons.org/processing/006699" width="50">
+  <img src="https://img.icons8.com/color/48/python--v1.png" />
+  <img src="https://img.icons8.com/color/48/tensorflow.png" />
+  <img src="https://img.icons8.com/color/48/pytorch.png" />
+  <img src="https://img.icons8.com/color/48/arduino.png" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
+  <img src="https://img.icons8.com/color/48/matlab.png" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop.png" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/azure/0078D4" width="50">
-  <img src="https://cdn.simpleicons.org/bash/4EAA25" width="50">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="50">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="50">
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="50">
-  <img src="https://cdn.simpleicons.org/qt/41CD52" width="50">
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="50">
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="50">
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="50">
-</p>
 
 # 💻 Tech Stack:
 
