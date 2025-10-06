@@ -50,13 +50,20 @@
   <br/>
   <br/>
   <br/>
-  <details>
+  <details open>
   <summary>
-    <span style="font-size:1.25em; font-weight:600;">🏅 Strengths & Skills 🎩</span>
+    <span style="font-size:1.6em; font-weight:700;">🏅 Strengths & Skills 🎩</span>
   </summary>
 
-  <!-- content goes below the summary -->
-  <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin:10px 0 0 0;">
+  <!-- All icons in one row -->
+  <p align="center" style="
+      display:flex;
+      flex-wrap:nowrap;
+      overflow-x:auto;
+      justify-content:center;
+      gap:20px;
+      margin:15px 0 0 0;
+    ">
     <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="64" height="64"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="64" height="64"/>
@@ -64,9 +71,6 @@
     <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="64" height="64"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing" width="64" height="64"/>
-  </p>
-
-  <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin:20px 0 0 0;">
     <img src="https://img.icons8.com/color/96/artificial-intelligence.png" title="Artificial Intelligence" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/azure-1.png" title="Azure" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/bash.png" title="Bash" width="64" height="64"/>
@@ -76,9 +80,6 @@
     <img src="https://img.icons8.com/color/96/stackoverflow.png" title="Stack Overflow" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/visual-studio.png" title="Visual Studio" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" width="64" height="64"/>
-  </p>
-
-  <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin:20px 0 0 0;">
     <img src="https://img.icons8.com/color/96/learning.png" title="Machine Learning" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/opencv.png" title="Computer Vision" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/graph.png" title="Graph Neural Networks" width="64" height="64"/>
@@ -86,6 +87,7 @@
     <img src="https://img.icons8.com/color/96/blockchain.png" title="Blockchain" width="64" height="64"/>
   </p>
 </details>
+
 
   <details open>
 <!-- 🌟 Responsive Skills Section -->
