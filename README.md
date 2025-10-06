@@ -110,7 +110,7 @@
   
 </div>
 <br/>
-</details>
+<!--</details>
    <summary><h3><b>:rocket: &nbsp;My Github Stats</b></h3></summary>
    </br>
     <div align='center'>
@@ -119,7 +119,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samanesayyar&theme=tokyonight" alt="Most Commit Language">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samanesayyar&theme=tokyonight" alt="Stats">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samanesayyar&theme=tokyonight&utcOffset=8" alt="Productive Time">
-    </div>
+    </div>-->
    </br>
 <summary><h3><b>:rocket: &nbsp;Projects</b></h3></summary>
 <h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection  </h3>  
