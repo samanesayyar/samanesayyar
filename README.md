@@ -5,9 +5,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=6000&pause=1000&color=FF516F&center=true&width=650&lines=Working+on+AI-powered+applications+;A+specialist+in+AI%2C+ML+and+CV" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=6000&pause=1000&color=FF516F&center=true&vCenter=true&width=700&lines=Working%20on%20AI-powered%20applications;A%20specialist%20in%20AI%2C%20ML%20and%20CV"
+      alt="Typing SVG"
+    />
   </a>
 </p>
+
 
 
 <!--<h2 align="center" style="font-weight: bold;">
