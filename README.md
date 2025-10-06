@@ -45,10 +45,10 @@
 <details open>
   <summary>
   <h2 align="left">🏅 Strengths & Skills 🎩</h2>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
+  
     <!--<hr style="width: 100%; border: 2px solid #ff516f; margin: 5px 0 15px 0; border-radius: 2px;">-->
   </summary>
-
+  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
   <p align="center" style="
       display: flex;
       flex-wrap: nowrap;
