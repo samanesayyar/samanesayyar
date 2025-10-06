@@ -2,17 +2,17 @@
   <a href="https://github.com/samanesayyar">
     <img src="12.png" alt="Samane Sayyar" /></a>
 </p>
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=FF516F&center=true&width=550&lines=Working+on+AI-powered+applications+;A+specialist+in+AI%2C+ML+and+CV)](https://git.io/typing-svg)
-</p>
+
 <!--<h2 align="center" style="font-weight: bold;">
   🔭 Working on <strong>AI-powered eCommerce solutions</strong> <br>
   🤝 Open to collaborations in <strong>ML, Computer Vision</strong>, and <strong>AI Projects</strong> <br>
   🌱 Currently enhancing <strong>Deep Feature Extraction</strong>, <strong>Object Detection</strong>, and <strong>Segmentation</strong> with <strong>YOLO</strong> & <strong>Mask-RCNN</strong> <br>
   💬 Ask me about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, <strong>Computer Vision</strong>, and <strong>AI in eCommerce</strong>
-</h2>
+</h2> -->
 
-<h1>💫 About Me:</h1>
+<!--<h1>💫 About Me:</h1>
 <p>
   <h3>
     I’m a specialist in <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, and <strong>AI</strong>, focused on <strong>eCommerce</strong> solutions. <br>
