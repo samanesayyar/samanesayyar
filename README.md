@@ -3,7 +3,12 @@
     <img src="12.png" alt="Samane Sayyar" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=FF516F&center=true&width=550&lines=Working+on+AI-powered+applications+;A+specialist+in+AI%2C+ML+and+CV)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=FF516F&center=true&width=550&lines=Working+on+AI-powered+applications+;A+specialist+in+AI%2C+ML+and+CV" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <!--<h2 align="center" style="font-weight: bold;">
   🔭 Working on <strong>AI-powered eCommerce solutions</strong> <br>
