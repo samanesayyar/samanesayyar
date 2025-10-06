@@ -52,7 +52,7 @@
   <br/>
   <details open>
   <summary>
-    <span style="font-size:1.6em; font-weight:700;">🏅 Strengths & Skills 🎩</span>
+    <span style="font-size:2.3em; font-weight:900;">🏅 Strengths & Skills 🎩</span>
   </summary>
 
   <!-- All icons in one row -->
