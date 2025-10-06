@@ -48,14 +48,6 @@
   
   </summary>
   <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
-  <!--<p align="center" style="
-      display: flex;
-      flex-wrap: nowrap;
-      overflow-x: auto;
-      justify-content: center;
-      gap: 20px;
-      margin: 15px 0 0 0;
-    ">-->
     <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="64" height="64"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="64" height="64"/>
