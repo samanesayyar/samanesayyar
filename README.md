@@ -13,7 +13,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/samanesayyar">
-    <img src="2.gif" alt="Samane Sayyar" /></a>
+    <img src="github/workflows/1.gif" alt="Samane Sayyar" /></a>
 </div>
 
 
