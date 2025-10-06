@@ -38,7 +38,7 @@
     <h2 align="left" style="font-size: 2em; font-weight: 800; display: inline-block; margin-bottom: 5px;">
       🏅 Strengths & Skills 🎩
     </h2>
-    <hr style="width: 100%; border: 2px solid #ff516f; margin: 5px 0 15px 0; border-radius: 2px;">
+    
   </summary>
 
   <p align="center" style="
@@ -56,19 +56,19 @@
     <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="48" height="48"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing" width="48" height="48"/>
     <img src="https://img.icons8.com/color/96/artificial-intelligence.png" title="Artificial Intelligence" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/azure-1.png" title="Azure" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/bash.png" title="Bash" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/linux.png" title="Linux" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/git.png" title="Git" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/android-studio--v3.png" title="Android Studio" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/stackoverflow.png" title="Stack Overflow" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/visual-studio.png" title="Visual Studio" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/96/learning.png" title="Machine Learning" width="48" height="48"/>
+	<img src="https://img.icons8.com/color/96/learning.png" title="Machine Learning" width="48" height="48"/>
     <img src="https://img.icons8.com/color/96/opencv.png" title="Computer Vision" width="48" height="48"/>
     <img src="https://img.icons8.com/color/96/graph.png" title="Graph Neural Networks" width="48" height="48"/>
     <img src="https://img.icons8.com/color/96/network.png" title="Social Network Analysis" width="48" height="48"/>
     <img src="https://img.icons8.com/color/96/blockchain.png" title="Blockchain" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/96/azure-1.png" title="Azure" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/96/bash.png" title="Bash" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/96/linux.png" title="Linux" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/96/git.png" title="Git" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/96/stackoverflow.png" title="Stack Overflow" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/96/visual-studio.png" title="Visual Studio" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" width="48" height="48"/>
+
   </p>
 </details>
 
