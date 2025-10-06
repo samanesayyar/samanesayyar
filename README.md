@@ -13,8 +13,12 @@
 </div>
 <div align="center">
   <a href="https://github.com/samanesayyar">
-    <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" alt="Samane Sayyar" /></a>
+    <img src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/1.gif" 
+         alt="Samane Sayyar" 
+         style="width:50%; max-width:400px; border-radius:10px;"/>
+  </a>
 </div>
+
 
 
 <!--<h2 align="center" style="font-weight: bold;">
