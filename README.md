@@ -96,9 +96,9 @@
 
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanesayyar&layout=compact&langs_count=7&theme=tokyonight">
-  <a href="#">
+  <!--<a href="#">
     <img  src="https://github-profile-trophy.vercel.app/?username=samanesayyar&theme=tokyonight&row=1&column=6" alt="trophy">
-  </a>
+  </a>-->
   <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=false">
     <img height="150em" alt="samanesayyar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/samanesayyar?cardType=level&theme=tokyonight&preferLogin=false" />
