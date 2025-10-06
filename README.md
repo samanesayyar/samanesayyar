@@ -91,9 +91,10 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/night.svg" />
 	</picture>
 </p>
-
-<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
-
+<details open>
+  <summary>
+	<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
+  </summary>
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanesayyar&layout=compact&langs_count=7&theme=tokyonight">
   <!--<a href="#">
@@ -109,7 +110,7 @@
   
 </div>
 <br/>
-
+</details>
    <summary><h3><b>:rocket: &nbsp;My Github Stats</b></h3></summary>
    </br>
     <div align='center'>
