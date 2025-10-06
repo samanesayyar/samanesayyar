@@ -11,7 +11,10 @@
     />
   </a>
 </div>
-
+<div align="center">
+  <a href="https://github.com/samanesayyar">
+    <img src="2.gif" alt="Samane Sayyar" /></a>
+</div>
 
 
 <!--<h2 align="center" style="font-weight: bold;">
