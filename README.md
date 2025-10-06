@@ -52,12 +52,10 @@
   <br/>
   <details open>
   <summary>
-	<p>
-    <span style="font-size:2.3em; font-weight:900;">🏅 Strengths & Skills 🎩</span>
-	 </p>
+    <span style="font-size:3em; font-weight:800;">🏅 Strengths & Skills 🎩</span>
+    <hr style="width:80%; margin:8px auto; border:1px solid #ff516f;">
   </summary>
 
-  <!-- All icons in one row -->
   <p align="center" style="
       display:flex;
       flex-wrap:nowrap;
@@ -74,21 +72,22 @@
     <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="64" height="64"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/artificial-intelligence.png" title="Artificial Intelligence" width="64" height="64"/>
+	<img src="https://img.icons8.com/color/96/learning.png" title="Machine Learning" width="64" height="64"/>
+    <img src="https://img.icons8.com/color/96/opencv.png" title="Computer Vision" width="64" height="64"/>
+    <img src="https://img.icons8.com/color/96/graph.png" title="Graph Neural Networks" width="64" height="64"/>
+    <img src="https://img.icons8.com/color/96/network.png" title="Social Network Analysis" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/azure-1.png" title="Azure" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/bash.png" title="Bash" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/linux.png" title="Linux" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/git.png" title="Git" width="64" height="64"/>
-    <img src="https://img.icons8.com/color/96/android-studio--v3.png" title="Android Studio" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/stackoverflow.png" title="Stack Overflow" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/visual-studio.png" title="Visual Studio" width="64" height="64"/>
     <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" width="64" height="64"/>
-    <img src="https://img.icons8.com/color/96/learning.png" title="Machine Learning" width="64" height="64"/>
-    <img src="https://img.icons8.com/color/96/opencv.png" title="Computer Vision" width="64" height="64"/>
-    <img src="https://img.icons8.com/color/96/graph.png" title="Graph Neural Networks" width="64" height="64"/>
-    <img src="https://img.icons8.com/color/96/network.png" title="Social Network Analysis" width="64" height="64"/>
+
     <img src="https://img.icons8.com/color/96/blockchain.png" title="Blockchain" width="64" height="64"/>
   </p>
 </details>
+
 
 
   <details open>
