@@ -35,15 +35,16 @@
 <p  align="middle">
 <img  width="300" src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/main/.github/workflows/2.gif" />
 </p>
+<h2 align="left">🏅 Strengths & Skills 🎩</h2>
 
+<!-- 🧠 Row 1: Programming & Core Tools -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
   <br/>
   <br/>
   <br/>
 <details open>
   <summary>
-    <h2 align="left" style="font-size: 2em; font-weight: 800; display: inline-block; margin-bottom: 5px;">
-      🏅 Strengths & Skills 🎩
-    </h2>
+  <h2 align="left">🏅 Strengths & Skills 🎩</h2>
     <!--<hr style="width: 100%; border: 2px solid #ff516f; margin: 5px 0 15px 0; border-radius: 2px;">-->
   </summary>
 
