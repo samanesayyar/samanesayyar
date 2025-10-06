@@ -37,8 +37,7 @@
   </h3>
 </p> -->
 
-  <br/>
-  <br/>
+
   <br/>
 <details open>
   <summary>
