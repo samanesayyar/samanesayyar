@@ -50,6 +50,7 @@
   <br/>
   <br/>
   <br/>
+<details open>
 <!-- 🌟 Responsive Skills Section -->
 <h2 align="left">🏅 Strengths & Skills 🎩</h2>
 
@@ -90,7 +91,7 @@
  
 </p>
 
-
+</details>
 
 
 # 💻 Tech Stack:
