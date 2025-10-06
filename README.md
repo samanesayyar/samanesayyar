@@ -2,9 +2,9 @@
   <a href="https://github.com/samanesayyar">
     <img src="12.png" alt="Samane Sayyar" /></a>
 </p>
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=FF516F&center=true&width=550&lines=Working+on+AI-powered+applications+;A+specialist+in+AI%2C+ML+and+CV)](https://git.io/typing-svg)
-
+</p>
 <!--<h2 align="center" style="font-weight: bold;">
   🔭 Working on <strong>AI-powered eCommerce solutions</strong> <br>
   🤝 Open to collaborations in <strong>ML, Computer Vision</strong>, and <strong>AI Projects</strong> <br>
