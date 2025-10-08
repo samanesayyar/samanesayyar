@@ -128,12 +128,15 @@
 
 <p align="center"> 
 counting of visitors to this page in this section started from Dec 30, 2014
+</p>
+</br>
 <a href="https://info.flagcounter.com/VI83"><img src="https://s01.flagcounter.com/count2/VI83/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+</br>
 
 
-
-![:name](https://count.getloli.com/get/@samanesayyar.github.readme?theme=asoul)
+<!--![:name](https://count.getloli.com/get/@samanesayyar.github.readme?theme=asoul)-->
+![:name](https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=2000)
 
 [MIT](LICENSE)
 
