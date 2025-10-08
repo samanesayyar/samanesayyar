@@ -125,7 +125,7 @@
 ### Profile Views
 counting of visitors to this page in this section started from Dec 30, 2014
 
-![](https://count.getloli.com/get/@samanesayyar.github.readme)
+![]([https://count.getloli.com/get/@samanesayyar.github.readme](https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto))
 </br>
 
 [MIT](LICENSE)
