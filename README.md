@@ -123,7 +123,7 @@
     </div>-->
    </br>
    
-### Profile Views
+
 <details open>
   <summary>
     <h2 align="left" style="font-size: 2em; font-weight: 800; display: inline-block; margin-bottom: 5px;">
