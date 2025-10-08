@@ -139,10 +139,10 @@ counting of visitors to this page in this section started from Oct 10, 2025
 </br>
 
 
-</br>
+
 
 <p align="center">
-  <img src="https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="samanesayyar" />
+  <img src="https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="samanesayyar" />
   <br/>
   <a href="LICENSE">MIT</a>
 </p>
