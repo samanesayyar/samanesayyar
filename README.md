@@ -79,8 +79,9 @@
 </details>
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
+<!--<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />-->
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=samanesayyar" />
 <h2 align="center"></h2>
 <br/>
 
@@ -123,14 +124,14 @@
    </br>
    
 ### Profile Views
-#### Thanks for visiting :heart:
+
 
 <p align="center"> 
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
 counting of visitors to this page in this section started from Dec 30, 2014
+<a href="https://info.flagcounter.com/VI83"><img src="https://s01.flagcounter.com/count2/VI83/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+
 
 ![:name](https://count.getloli.com/get/@samanesayyar.github.readme?theme=asoul)
 
