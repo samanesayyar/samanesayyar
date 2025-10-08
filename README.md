@@ -125,8 +125,7 @@
 ### Profile Views
 counting of visitors to this page in this section started from Dec 30, 2014
 
-![https://github.com/samanesayyar](https://count.getloli.com/@https://github.com/samanesayyar)
-</br>
+![:name](https://count.getloli.com/get/@samanesayyar.github.readme?theme=asoul)
 
 [MIT](LICENSE)
 
