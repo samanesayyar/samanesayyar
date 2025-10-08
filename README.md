@@ -138,11 +138,11 @@ counting of visitors to this page in this section started from Oct 10, 2025
 </br>
 
 <p align="center">
-<!--![:name](https://count.getloli.com/get/@samanesayyar.github.readme?theme=asoul)-->
-![:name](https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
-
-[MIT](LICENSE)
+  <img src="https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="samanesayyar" />
+  <br/>
+  <a href="LICENSE">MIT</a>
 </p>
+
 
 </p>
 <summary><h3><b>:rocket: &nbsp;Projects</b></h3></summary>
