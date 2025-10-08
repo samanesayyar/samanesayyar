@@ -124,13 +124,17 @@
    </br>
    
 ### Profile Views
+<details open>
+  <summary>
+    <h2 align="left" style="font-size: 2em; font-weight: 800; display: inline-block; margin-bottom: 5px;">
+      🏅 Profile Views 
+    </h2>
+    
+  </summary>
 
 
 <p align="center"> 
 counting of visitors to this page in this section started from Oct 10, 2025
-</p>
-<p align="center"> 
-	<a href="https://info.flagcounter.com/VI83"><img src="https://s01.flagcounter.com/count2/VI83/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
 </br>
 
@@ -145,6 +149,7 @@ counting of visitors to this page in this section started from Oct 10, 2025
 
 
 </p>
+</details>
 <summary><h3><b>:rocket: &nbsp;Projects</b></h3></summary>
 <h3>🧰️ Medical Research Experience: Few-Shot Faster R-CNN for Medical Object Detection  </h3>  
 
