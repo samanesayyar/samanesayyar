@@ -81,7 +81,7 @@
 
 <!--<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />-->
 <!--   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="" align="center"/> -->
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=samanesayyar" />
+<!--<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=samanesayyar" />-->
 <h2 align="center"></h2>
 <br/>
 
@@ -136,7 +136,7 @@ counting of visitors to this page in this section started from Dec 30, 2014
 
 
 <!--![:name](https://count.getloli.com/get/@samanesayyar.github.readme?theme=asoul)-->
-![:name](https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=2000)
+![:name](https://count.getloli.com/@samanesayyar?name=samanesayyar&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
 
 [MIT](LICENSE)
 
