@@ -22,7 +22,7 @@
   <br/>
 <h2 align="left">🏅 Strengths &amp; Skills 🎩</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,c,cpp,ps,processing,sklearn,opencv,graphql,solidity,azure,bash,linux,git,stackoverflow,visualstudio,wordpress&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,c,cpp,ps,processing,sklearn,opencv,graphql,solidity,azure,bash,linux,git,stackoverflow,visualstudio,wordpress&perline=9" width="700" />
 </p>
 
 <h2 align="center"></h2>
