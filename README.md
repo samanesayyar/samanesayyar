@@ -43,7 +43,7 @@
 </div>
 <details open>
   <summary>
-	<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
+	<h2 font-weight="bold">📊 My Github Stats 🏆</h2>
   </summary>
 <div align='center'>
   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanesayyar&layout=compact&langs_count=7&theme=tokyonight">
