@@ -41,7 +41,7 @@
   <br/>
 <details open>
   <summary>
-	<b align="left" style="font-size: 2em; font-weight: 800; display: inline-block; margin-bottom: 5px;">🏅 Strengths & Skills 🎩</b>
+	<h2 align="left" style="font-size: 2em; font-weight: 800; display: inline-block; margin-bottom: 5px;">🏅 Strengths & Skills 🎩</h2>
   </summary>
 
 <p>
