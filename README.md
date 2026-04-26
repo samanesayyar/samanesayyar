@@ -24,7 +24,28 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,c,cpp,ps,processing,sklearn,opencv,graphql,solidity,azure,bash,linux,git,stackoverflow,visualstudio,wordpress&perline=9" width="700" />
 </p>
+<p align="center">
+  <!-- AI -->
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="48" style="margin:5px;"/>
 
+  <!-- Machine Learning -->
+  <img src="https://img.icons8.com/color/96/learning.png" width="48" style="margin:5px;"/>
+
+  <!-- Computer Vision -->
+  <img src="https://img.icons8.com/color/96/opencv.png" width="48" style="margin:5px;"/>
+
+  <!-- Graph Neural Networks -->
+  <img src="https://img.icons8.com/color/96/graph.png" width="48" style="margin:5px;"/>
+
+  <!-- Social Network Analysis -->
+  <img src="https://img.icons8.com/color/96/network.png" width="48" style="margin:5px;"/>
+
+  <!-- Blockchain -->
+  <img src="https://img.icons8.com/color/96/blockchain.png" width="48" style="margin:5px;"/>
+
+  <!-- Processing -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="48" style="margin:5px;"/>
+</p>
 <h2 align="center"></h2>
 <br/>
 
