@@ -21,56 +21,26 @@
 
   <br/>
 <h2 align="left">🏅 Strengths &amp; Skills 🎩</h2>
-<p align="center">
-  <!-- AI -->
+<div align="center">
+
+  <!-- AI / Concepts -->
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="48" style="margin:5px;"/>
-
-  <!-- Machine Learning -->
   <img src="https://img.icons8.com/color/96/learning.png" width="48" style="margin:5px;"/>
-
-  <!-- Computer Vision -->
   <img src="https://img.icons8.com/color/96/opencv.png" width="48" style="margin:5px;"/>
-
-  <!-- Graph Neural Networks -->
   <img src="https://img.icons8.com/color/96/graph.png" width="48" style="margin:5px;"/>
-
-  <!-- Social Network Analysis -->
   <img src="https://img.icons8.com/color/96/network.png" width="48" style="margin:5px;"/>
-
-  <!-- Blockchain -->
   <img src="https://img.icons8.com/color/96/blockchain.png" width="48" style="margin:5px;"/>
-
-  <!-- Processing -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="48" style="margin:5px;"/>
 
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="48" height="48"/>
+  <!-- Tools / Programming -->
+  <img src="https://img.icons8.com/color/96/python--v1.png" width="48" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/96/tensorflow.png" width="48" style="margin:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/96/c-programming.png" width="48" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" width="48" style="margin:5px;"/>
+  <img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="48" style="margin:5px;"/>
 
-  <!-- TensorFlow -->
-  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="48" height="48"/>
-
-  <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/>
-
-  <!-- C -->
-  <img src="https://img.icons8.com/color/96/c-programming.png" title="C" width="48" height="48"/>
-
-  <!-- C++ -->
-  <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="48" height="48"/>
-
-  <!-- Photoshop -->
-  <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="48" height="48"/>
-</p>
-<h2 align="center"></h2>
-<br/>
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/samanesayyar/samanesayyar/output-3d-contrib/night.svg" />
-	</picture>
-</p>
+</div>
 <details open>
   <summary>
 	<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
