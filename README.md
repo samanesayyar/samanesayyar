@@ -22,9 +22,6 @@
   <br/>
 <h2 align="left">🏅 Strengths &amp; Skills 🎩</h2>
 <p align="center">
-  <p> <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="48" height="48"/> <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/> <img src="https://img.icons8.com/color/96/c-programming.png" title="C" width="48" height="48"/> <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="48" height="48"/> <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="48" height="48"/>
-</p>
-<p align="center">
   <!-- AI -->
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="48" style="margin:5px;"/>
 
@@ -45,6 +42,24 @@
 
   <!-- Processing -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="48" style="margin:5px;"/>
+
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="48" height="48"/>
+
+  <!-- TensorFlow -->
+  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="48" height="48"/>
+
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/>
+
+  <!-- C -->
+  <img src="https://img.icons8.com/color/96/c-programming.png" title="C" width="48" height="48"/>
+
+  <!-- C++ -->
+  <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="48" height="48"/>
+
+  <!-- Photoshop -->
+  <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="48" height="48"/>
 </p>
 <h2 align="center"></h2>
 <br/>
