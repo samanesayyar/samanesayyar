@@ -47,18 +47,9 @@
     
   </summary>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="48"/>
-  <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48"/>
-  <img src="https://img.icons8.com/color/96/c-programming.png" title="C" width="48"/>
-  <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="48"/>
-  <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing" width="48"/>
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" title="AI" width="48"/>
-  <img src="https://img.icons8.com/color/96/learning.png" title="ML" width="48"/>
-  <img src="https://img.icons8.com/color/96/opencv.png" title="CV" width="48"/>
-</p>
+<p align="left">
+  <img src="https://img.icons8.com/color/96/python--v1.png" title="Python" width="48" height="48"/> <img src="https://img.icons8.com/color/96/tensorflow.png" title="TensorFlow" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/> <img src="https://img.icons8.com/color/96/c-programming.png" title="C" width="48" height="48"/> <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" title="C++" width="48" height="48"/> <img src="https://img.icons8.com/color/96/adobe-photoshop.png" title="Photoshop" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing" width="48" height="48"/> <img src="https://img.icons8.com/color/96/artificial-intelligence.png" title="Artificial Intelligence" width="48" height="48"/> <img src="https://img.icons8.com/color/96/learning.png" title="Machine Learning" width="48" height="48"/> <img src="https://img.icons8.com/color/96/opencv.png" title="Computer Vision" width="48" height="48"/> <img src="https://img.icons8.com/color/96/graph.png" title="Graph Neural Networks" width="48" height="48"/> <img src="https://img.icons8.com/color/96/network.png" title="Social Network Analysis" width="48" height="48"/> <img src="https://img.icons8.com/color/96/blockchain.png" title="Blockchain" width="48" height="48"/> <img src="https://img.icons8.com/color/96/azure-1.png" title="Azure" width="48" height="48"/> <img src="https://img.icons8.com/color/96/bash.png" title="Bash" width="48" height="48"/> <img src="https://img.icons8.com/color/96/linux.png" title="Linux" width="48" height="48"/> <img src="https://img.icons8.com/color/96/git.png" title="Git" width="48" height="48"/> <img src="https://img.icons8.com/color/96/stackoverflow.png" title="Stack Overflow" width="48" height="48"/> <img src="https://img.icons8.com/color/96/visual-studio.png" title="Visual Studio" width="48" height="48"/> <img src="https://img.icons8.com/color/96/wordpress.png" title="WordPress" width="48" height="48"/>
+	</p>
 </details>
 
 
